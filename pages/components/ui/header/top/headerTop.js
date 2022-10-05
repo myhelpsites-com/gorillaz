@@ -1,4 +1,4 @@
-export default function HeaderTop() {
+export function HeaderTop() {
     return <header>
         <div className="bg-black text-center">
             <a className="navbar-brand text-light" href="#">
