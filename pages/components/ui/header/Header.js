@@ -1,2 +1,2 @@
-import HeaderTop from "./top/headerTop";
+import { HeaderTop } from "./top/headerTop";
 export { HeaderTop }
